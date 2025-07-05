@@ -2,7 +2,7 @@
 
 # Demo:
 
-https://yaminqabaha7.github.io/Product-Preview-Card-Component/
+https://yaminqabaha7.github.io/Social-links-profile/
 
 # Features:
 
